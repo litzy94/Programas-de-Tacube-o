@@ -1,0 +1,10 @@
+C:\Users\litzy\source\repos\Archivos\Archivos\bin\Debug\Archivos.exe.config
+C:\Users\litzy\source\repos\Archivos\Archivos\bin\Debug\Archivos.exe
+C:\Users\litzy\source\repos\Archivos\Archivos\bin\Debug\Archivos.pdb
+C:\Users\litzy\source\repos\Archivos\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\litzy\source\repos\Archivos\Archivos\obj\Debug\Archivos.frmAlumnos.resources
+C:\Users\litzy\source\repos\Archivos\Archivos\obj\Debug\Archivos.Properties.Resources.resources
+C:\Users\litzy\source\repos\Archivos\Archivos\obj\Debug\Archivos.csproj.GenerateResource.cache
+C:\Users\litzy\source\repos\Archivos\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\litzy\source\repos\Archivos\Archivos\obj\Debug\Archivos.exe
+C:\Users\litzy\source\repos\Archivos\Archivos\obj\Debug\Archivos.pdb
